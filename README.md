@@ -8,8 +8,8 @@
 **请勿相信任何非官网下载的版本，其可能包含病毒或者勒索病毒**  
 ## 链接  
 ### 5.4
-**32位：**  http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/wrar540sc.exe
-**64位：**  http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/winrar-x64-540sc.exe
+**32位：**  http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/wrar540sc.exe  
+**64位：**  http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/winrar-x64-540sc.exe  
 
 ### 5.5  
 **32位：** http://www.win-rar.com/fileadmin/winrar-versions/sc20170830/wrr/wrar550sc.exe  
