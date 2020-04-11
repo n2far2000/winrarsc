@@ -5,7 +5,7 @@
 开发商RARLAB：https://www.rarlab.com/  
 发行商win.rar GmbH：https://www.win-rar.com/  
 简体中文代理商：http://www.winrar.com.cn/  
-**请勿相信任何非官网下载的版本，其可能包含病毒或者勒索病毒**  
+**请勿轻易相信任何非官网下载的版本，其可能包含未知的木马程式**  
 ## 链接  
 ### 5.4
 **32位：**  http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/wrar540sc.exe  
