@@ -36,5 +36,5 @@
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20191217/rrlb/winrar-x64-580sc.exe  
  
 ### 5.9  
-**32位：**https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/rrlb/wrar590sc.exe  
-**64位：**https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/rrlb/winrar-x64-590sc.exe  
+**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/rrlb/wrar590sc.exe  
+**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/rrlb/winrar-x64-590sc.exe  
