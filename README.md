@@ -40,5 +40,5 @@
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/rrlb/winrar-x64-590sc.exe  
 
 ### 5.9.1
-**32位: ** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/wrar591sc.exe  
-**64位: ** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/winrar-x64-591sc.exe  
+**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/wrar591sc.exe  
+**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/winrar-x64-591sc.exe  
