@@ -48,6 +48,6 @@
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/winrar-x64-591sc.exe  
 
 ### 6.0  
-**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/winrar-x64-600sc.exe  
-**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/wrar600sc.exe  
+**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/wrar600sc.exe  
+**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/winrar-x64-600sc.exe  
 （[@RwangToo](https://github.com/RwangToo)）  
