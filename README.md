@@ -1,6 +1,6 @@
 # 没有恼人广告的 WinRAR 官方简体中文版
 ## 简介
-从5.4正式版之后（感谢指正），WinRAR简体中文版代理商便在简体中文版本程序中内置了即使购买了授权也无法去除的广告页面，从任意官方站点页面下载的版本均被替换成有广告版本，但WinRAR一直保留了可以在购买了正版授权之后能去除广告的版本，本页面列举了从5.5之后的可去除广告的WinRAR简体中文正式版下载链接。  
+    从5.4正式版之后，WinRAR简体中文版代理商便在简体中文版本程序中内置了即使购买了授权也无法去除的广告页面，从任意官方站点页面下载的版本均被替换成有广告版本，但WinRAR一直保留了可以在购买了正版授权之后能去除广告的版本，本页面列举了从5.5之后的可去除广告的WinRAR简体中文正式版下载链接。  
 ## 关于WinRAR官网的识别  
 开发商RARLAB：https://www.rarlab.com/  
 发行商win.rar GmbH：https://www.win-rar.com/  
@@ -43,11 +43,10 @@
 ~~**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/wrar591sc.exe~~  
 ~~**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/winrar-x64-591sc.exe~~  
 
-旧版证书被吊销，更新的地址（[@RwangToo](https://github.com/RwangToo)）  
+旧版证书被吊销，更新的地址 
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/wrar591sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/winrar-x64-591sc.exe  
 
 ### 6.0  
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/wrar600sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/winrar-x64-600sc.exe  
-（[@RwangToo](https://github.com/RwangToo)）  
