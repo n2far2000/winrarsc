@@ -43,7 +43,7 @@
 ~~**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/wrar591sc.exe~~  
 ~~**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/winrar-x64-591sc.exe~~  
 
-旧版证书被吊销，更新的地址 
+旧版证书被吊销，更新的地址   
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/wrar591sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/winrar-x64-591sc.exe  
 
