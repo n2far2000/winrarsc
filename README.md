@@ -50,3 +50,10 @@
 ### 6.0  
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/wrar600sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/winrar-x64-600sc.exe  
+
+### 6.0.1  
+**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/rrlb/wrar601sc.exe  
+**OR** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/wrr/wrar601sc.exe  
+**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/rrlb/winrar-x64-601sc.exe
+**OR** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/wrr/winrar-x64-601sc.exe   
+
