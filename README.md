@@ -6,7 +6,7 @@
 发行商win.rar GmbH：https://www.win-rar.com/  
 简体中文代理商：http://www.winrar.com.cn/  
 
-> rrlb是开发版，wrr是发行正式版
+> rrlb是开发版，wrr是发行正式版  
 **请勿轻易相信任何非官网下载的版本，其可能包含未知的木马程式**  
 ## 链接  
 ### 5.4
