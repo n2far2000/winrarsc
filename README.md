@@ -1,4 +1,4 @@
-# 没有恼人广告的 WinRAR 官方简体中文版
+# 注册后无广告的 WinRAR 官方简体中文版
 ## 简介
     从5.4正式版之后，WinRAR简体中文版代理商便在简体中文版本程序中内置了即使购买了授权也无法去除的广告页面，从任意官方站点页面下载的版本均被替换成有广告版本，但WinRAR一直保留了可以在购买了正版授权之后能去除广告的版本，本页面列举了从5.5之后的可去除广告的WinRAR简体中文正式版下载链接。  
 ## 关于WinRAR官网的识别  
@@ -7,7 +7,6 @@
 简体中文代理商：http://www.winrar.com.cn/  
 
 > rrlb是开发版，wrr是发行正式版  
-**请勿轻易相信任何非官网下载的版本，其可能包含未知的木马程式**  
 ## 链接  
 ### 5.4
 **32位：**  http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/wrar540sc.exe  
@@ -55,7 +54,8 @@
 
 ### 6.0.1  
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/rrlb/wrar601sc.exe   
-**OR** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/wrr/wrar601sc.exe   
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/rrlb/winrar-x64-601sc.exe  
-**OR** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/wrr/winrar-x64-601sc.exe   
 
+### 6.0.2
+**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210616/rrlb/wrar602sc.exe  
+**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210616/rrlb/winrar-x64-602sc.exe  
