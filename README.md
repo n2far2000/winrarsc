@@ -63,3 +63,8 @@
 ### 6.1.0
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220127/wrr/winrar-x32-610sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220127/wrr/winrar-x64-610sc.exe  
+
+### 6.1.1
+**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220317/wrr/winrar-x32-611sc.exe  
+**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220317/wrr/winrar-x64-611sc.exe  
+
