@@ -40,7 +40,7 @@
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/rrlb/wrar590sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/rrlb/winrar-x64-590sc.exe  
 
-### 5.9.1
+### 5.91
 ~~**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/wrar591sc.exe~~  
 ~~**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/rrlb/winrar-x64-591sc.exe~~  
 
@@ -48,23 +48,28 @@
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/wrar591sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/winrar-x64-591sc.exe  
 
-### 6.0  
+### 6.00  
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/wrar600sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/winrar-x64-600sc.exe  
 
-### 6.0.1  
+### 6.01  
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/rrlb/wrar601sc.exe   
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/rrlb/winrar-x64-601sc.exe  
 
-### 6.0.2
+### 6.02
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210616/rrlb/wrar602sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210616/rrlb/winrar-x64-602sc.exe  
 
-### 6.1.0
+### 6.10
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220127/wrr/winrar-x32-610sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220127/wrr/winrar-x64-610sc.exe  
 
-### 6.1.1
+### 6.11
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220317/wrr/winrar-x32-611sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220317/wrr/winrar-x64-611sc.exe  
+
+### 6.21
+**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x32-621sc.exe  
+**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x64-621sc.exe  
+
 
