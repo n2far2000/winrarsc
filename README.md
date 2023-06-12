@@ -1,6 +1,6 @@
 # 无广告 WinRAR 官方简体中文版
 ## 简介
-> 从5.4正式版之后，WinRAR简体中文版代理商便在简体中文版本程序中内置了即使购买了授权也无法去除的广告页面，从任意官方站点页面下载的版本均被替换成有广告版本，但WinRAR一直保留了可以在购买了正版授权之后能去除广告的版本，本页面列举了从5.5之后的可去除广告的WinRAR简体中文正式版下载链接。  
+> 从5.4正式版之后，WinRAR简体中文版代理商在部分简体中文版本程序中内置了即使购买了授权也无法去除的广告页面，本页面列举了从5.5之后的可去除广告的WinRAR简体中文正式版下载链接。  
 ## 关于WinRAR官网的识别  
 开发商RARLAB：https://www.rarlab.com/  
 发行商win.rar GmbH：https://www.win-rar.com/  
@@ -72,4 +72,6 @@
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x32-621sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x64-621sc.exe  
 
-
+### 6.22 
+**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230607/wrr/winrar-x32-622sc.exe  
+**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230607/wrr/winrar-x64-622sc.exe  
