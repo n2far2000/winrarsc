@@ -6,7 +6,7 @@
 发行商win.rar GmbH：https://www.win-rar.com/  
 简体中文代理商：http://www.winrar.com.cn/  
 
-> rrlb是开发版，wrr是发行正式版  
+> rrlb:指从 RaRLaB.com 购买 ，wrr:指从 Win-RaR.com 购买，仅说明文件存在区别，程序无区别。
 ## 链接  
 ### 5.4
 **32位：**  http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/wrar540sc.exe  
