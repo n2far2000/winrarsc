@@ -75,3 +75,7 @@
 ### 6.22 
 **32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230607/wrr/winrar-x32-622sc.exe  
 **64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230607/wrr/winrar-x64-622sc.exe  
+
+### 6.23
+**32位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230808/wrr/winrar-x32-623sc.exe  
+**64位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230808/wrr/winrar-x64-623sc.exe  
