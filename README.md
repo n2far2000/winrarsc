@@ -10,7 +10,11 @@
 > 链接中的 `wrr` 可以替换为 `rrlb`，两版程序仅说明文件存在区别，程序本体无区别。<br>
 > 其中 `wrr` 指从 `Win-RaR.com` 购买，`rrlb` 指从 `RaRLaB.com` 购买。
 
-## 链接  
+## 当前最新版本  
+### 7.00
+**32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x32-700sc.exe  
+**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x64-700sc.exe  
+## 历史版本  
 ### 5.40
 **32 位：** http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/wrar540sc.exe  
 **64 位：** http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/winrar-x64-540sc.exe  
