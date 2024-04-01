@@ -42,6 +42,7 @@
   "5.91 证书已过期": {
     "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/wrr/wrar591sc.exe",
     "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/wrr/winrar-x64-591sc.exe",
+    "date": "20200706",
     "available": false
   },
   "5.91 新版": {

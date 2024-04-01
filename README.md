@@ -1,20 +1,21 @@
 # 无广告 WinRAR 官方简体中文版
 ## 简介
 > 从 5.40 正式版之后，WinRAR 的简体中文版代理商在「非商业个人版」的程序中内置了即使购买了授权也无法去除的广告页面。<br>
-> 本页面列举了从 5.40 版本之后的，可去除广告的 WinRAR 简体中文正式版下载链接。  
-## 关于 WinRAR 官网的识别  
+> 本页面列举了从 5.40 版本之后的，可去除广告的 WinRAR 简体中文正式版下载链接。
+## 关于 WinRAR 官网的识别
 开发商 RARLAB：https://www.rarlab.com/  
 发行商 win.rar GmbH：https://www.win-rar.com/  
-简体中文代理商：http://www.winrar.com.cn/  
+简体中文代理商：http://www.winrar.com.cn/
 
 > 链接中的 `wrr` 可以替换为 `rrlb`，两版程序仅说明文件存在区别，程序本体无区别。<br>
 > 其中 `wrr` 指从 `Win-RaR.com` 购买，`rrlb` 指从 `RaRLaB.com` 购买。
 
-## 当前最新版本  
+## 当前最新版本
 ### 7.00
 **32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x32-700sc.exe  
-**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x64-700sc.exe  
-## 历史版本  
+**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x64-700sc.exe
+
+## 历史版本
 ### 5.40
 **32 位：** http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/wrar540sc.exe  
 **64 位：** http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/winrar-x64-540sc.exe  
@@ -42,16 +43,16 @@
 ### 5.80
 **32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20191217/wrr/wrar580sc.exe  
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20191217/wrr/winrar-x64-580sc.exe  
- 
+
 ### 5.90
 **32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/wrr/wrar590sc.exe  
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/wrr/winrar-x64-590sc.exe  
 
-### 5.91
+### ~~5.91 证书已过期~~
 ~~**32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/wrr/wrar591sc.exe~~  
 ~~**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/wrr/winrar-x64-591sc.exe~~  
 
-旧版证书已被吊销，以下为更新后的地址   
+### 5.91 新版
 **32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/wrar591sc.exe  
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/winrar-x64-591sc.exe  
 
@@ -59,8 +60,8 @@
 **32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/wrar600sc.exe  
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/winrar-x64-600sc.exe  
 
-### 6.01  
-**32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/wrr/wrar601sc.exe   
+### 6.01
+**32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/wrr/wrar601sc.exe  
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/wrr/winrar-x64-601sc.exe  
 
 ### 6.02
@@ -94,3 +95,4 @@
 ### 7.00
 **32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x32-700sc.exe  
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x64-700sc.exe  
+
