@@ -1,0 +1,104 @@
+{
+  "5.40": {
+    "32": "http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/wrar540sc.exe",
+    "64": "http://www.win-rar.com/fileadmin/winrar-versions/sc20160819/wrr/winrar-x64-540sc.exe",
+    "date": "20160819"
+  },
+  "5.50": {
+    "32": "http://www.win-rar.com/fileadmin/winrar-versions/sc20170830/wrr/wrar550sc.exe",
+    "64": "http://www.win-rar.com/fileadmin/winrar-versions/sc20170830/wrr/winrar-x64-550sc.exe",
+    "date": "20170830"
+  },
+  "5.60": {
+    "32": "http://www.win-rar.com/fileadmin/winrar-versions/sc20180711/wrr/wrar560sc.exe",
+    "64": "http://www.win-rar.com/fileadmin/winrar-versions/sc20180711/wrr/winrar-x64-560sc.exe",
+    "date": "20180711"
+  },
+  "5.61": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc20181016/wrr/wrar561sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc20181016/wrr/winrar-x64-561sc.exe",
+    "date": "20181016"
+  },
+  "5.70": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc20190304/wrr/wrar570sc.exe",
+    "64": "http://www.win-rar.com/fileadmin/winrar-versions/sc20190304/wrr/winrar-x64-570sc.exe",
+    "date": "20190304"
+  },
+  "5.71": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc20190509/wrr/wrar571sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc20190509/wrr/winrar-x64-571sc.exe",
+    "date": "20190509"
+  },
+  "5.80": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20191217/wrr/wrar580sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20191217/wrr/winrar-x64-580sc.exe",
+    "date": "20191217"
+  },
+  "5.90": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/wrr/wrar590sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200409/wrr/winrar-x64-590sc.exe",
+    "date": "20200409"
+  },
+  "5.91 证书已过期": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/wrr/wrar591sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200706/wrr/winrar-x64-591sc.exe",
+    "date": "20200706",
+    "available": false
+  },
+  "5.91 新版": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/wrar591sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20200827/wrr/winrar-x64-591sc.exe",
+    "date": "20200827"
+  },
+  "6.00": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/wrar600sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20201210/wrr/winrar-x64-600sc.exe",
+    "date": "20201210"
+  },
+  "6.01": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/wrr/wrar601sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210414/wrr/winrar-x64-601sc.exe",
+    "date": "20210414"
+  },
+  "6.02": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210616/wrr/wrar602sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20210616/wrr/winrar-x64-602sc.exe",
+    "date": "20210616"
+  },
+  "6.10": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220127/wrr/winrar-x32-610sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220127/wrr/winrar-x64-610sc.exe",
+    "date": "20220127"
+  },
+  "6.11": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220317/wrr/winrar-x32-611sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20220317/wrr/winrar-x64-611sc.exe",
+    "date": "20220317"
+  },
+  "6.21": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x32-621sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230223/wrr/winrar-x64-621sc.exe",
+    "date": "20230223"
+  },
+  "6.22": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230607/wrr/winrar-x32-622sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230607/wrr/winrar-x64-622sc.exe",
+    "date": "20230607"
+  },
+  "6.23": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230808/wrr/winrar-x32-623sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20230808/wrr/winrar-x64-623sc.exe",
+    "date": "20230808"
+  },
+  "6.24": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20231013/wrr/winrar-x32-624sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20231013/wrr/winrar-x64-624sc.exe",
+    "date": "20231013"
+  },
+  "7.00": {
+    "32": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x32-700sc.exe",
+    "64": "https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240306/wrr/winrar-x64-700sc.exe",
+    "date": "20240306"
+  }
+}
+
