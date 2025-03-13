@@ -99,3 +99,7 @@
 ### 7.01
 **32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x32-701sc.exe  
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x64-701sc.exe  
+
+### 7.10
+**32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x32-710sc.exe  
+**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x64-710sc.exe  
