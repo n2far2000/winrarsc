@@ -101,5 +101,5 @@
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x64-701sc.exe  
 
 ### 7.10
-**32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x32-710sc.exe  
+**32 位：** Windows Vista 和 32-bit Windows 不再受到支持， WinRAR 需要 Windows 7 x64 或者之后的版本。  
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x64-710sc.exe  
