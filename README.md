@@ -11,9 +11,11 @@
 > 其中 `wrr` 指从 `Win-RaR.com` 购买，`rrlb` 指从 `RaRLaB.com` 购买。
 
 ## 当前最新版本
-### 7.01
+自7.1.0起，WinRAR不再支持32位Windows 系统  
+### 7.10
+**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x64-710sc.exe  
+### 7.0.1
 **32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x32-701sc.exe  
-**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x64-701sc.exe  
 
 ## 历史版本
 ### 5.40
@@ -103,3 +105,6 @@
 ### 7.10
 **32 位：** Windows Vista 和 32-bit Windows 不再受到支持， WinRAR 需要 Windows 7 x64 或者之后的版本。  
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x64-710sc.exe  
+
+### 7.11
+**64 位：** 暂未发布  
