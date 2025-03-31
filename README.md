@@ -107,4 +107,4 @@
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x64-710sc.exe  
 
 ### 7.11
-**64 位：** 暂未发布  
+**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251303/wrr/winrar-x64-711sc.exe
