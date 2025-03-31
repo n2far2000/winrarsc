@@ -11,7 +11,7 @@
 > 其中 `wrr` 指从 `Win-RaR.com` 购买，`rrlb` 指从 `RaRLaB.com` 购买。
 
 ## 当前最新版本
-> 自7.1.0起，WinRAR不再支持32位Windows 系统  
+> 自7.10起，WinRAR不再支持32位Windows 系统  
 ### 7.10
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x64-710sc.exe  
 ### 7.01
