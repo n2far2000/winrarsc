@@ -12,8 +12,8 @@
 
 ## 当前最新版本
 > 自7.10起，WinRAR不再支持32位Windows 系统  
-### 7.10
-**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x64-710sc.exe  
+### 7.11
+**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251303/wrr/winrar-x64-711sc.exe
 ### 7.01
 **32 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20240528/wrr/winrar-x32-701sc.exe  
 
@@ -107,4 +107,4 @@
 **64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x64-710sc.exe  
 
 ### 7.11
-**64 位：** 暂未发布  
+**64 位：** https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251303/wrr/winrar-x64-711sc.exe
