@@ -16,7 +16,7 @@
 
 ## 当前最新版本
 >
-> 自7.10起，WinRAR不再支持32位Windows 系统  
+> 自 7.10 起，WinRAR 仅支持 x64 架构的 Windows 7 及之后的系统。  
 >
 ### 7.11
 
@@ -138,7 +138,6 @@
 
 ### 7.10
 
-**32 位：** Windows Vista 和 32-bit Windows 不再受到支持， WinRAR 需要 Windows 7 x64 或者之后的版本。  
 **64 位：** <https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20251003/wrr/winrar-x64-710sc.exe>  
 
 ### 7.11
