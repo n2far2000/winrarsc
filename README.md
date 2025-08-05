@@ -18,9 +18,9 @@
 >
 > 自 7.10 起，WinRAR 仅支持 x64 架构的 Windows 7 及之后的系统。  
 >
-### 7.12
+### 7.13
 
-**64 位：** <https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20250627/wrr/winrar-x64-712sc.exe>
+**64 位：** <https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20250804/wrr/winrar-x64-713sc.exe>
 
 ### 7.01
 
@@ -147,4 +147,8 @@
 ### 7.12
 
 **64 位：** <https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20250627/wrr/winrar-x64-712sc.exe>
+
+### 7.13
+
+**64 位：** <https://www.win-rar.com/fileadmin/winrar-versions/sc/sc20250804/wrr/winrar-x64-713sc.exe>
 </details>
